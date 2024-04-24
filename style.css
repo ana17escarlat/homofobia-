@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(201, 127, 170);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #0c0108;
+}
+
+p {
+    color: #0b0108;
+}
+
+#datetime {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
